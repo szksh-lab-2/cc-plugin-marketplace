@@ -1,0 +1,13 @@
+{
+  "name": "szksh-lab-2",
+  "owner": {
+    "name": "Shunsuke Suzuki"
+  },
+  "plugins": [
+    {
+      "name": "develop-skill",
+      "source": "./plugins/develop-skill",
+      "description": "Skills to develop agent skills"
+    }
+  ]
+}
